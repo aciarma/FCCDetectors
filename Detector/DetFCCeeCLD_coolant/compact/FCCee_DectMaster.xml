@@ -32,9 +32,9 @@
   <include ref="./FCCee_DectDimensions.xml" />
 
   <include ref="Beampipe_with_coolant.xml"/>
-  <include ref="../../DetFCCeeCommon/compact/HOMAbsorber.xml"/>
+  <!--<include ref="../../DetFCCeeCommon/compact/HOMAbsorber.xml"/>
   <include ref="../../DetFCCeeCommon/compact/BeamInstrumentation.xml"/>
-  <include ref="../../DetFCCeeCommon/compact/LumiCal.xml"/>
+  <include ref="../../DetFCCeeCommon/compact/LumiCal.xml"/>-->
 
   <include ref="Vertex.xml"/> 
   <include ref="InnerTracker.xml"/>
